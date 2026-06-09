@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/taskedby-logo.png" alt="TaskedBy logo" width="132" />
+<img src="assets/taskedby-logo.png" alt="TaskedBy logo" width="132" />
 
 # William Bova
 
@@ -10,19 +10,19 @@ I help businesses move faster by turning manual workflows, messy data, and rough
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&duration=2800\&pause=900\&color=00D9FF\&center=true\&vCenter=true\&width=720\&lines=Automation+Tools;Production+Web+Apps;Desktop+Applications;AI-Assisted+Development;Workflow+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&duration=2800\&pause=900\&color=0078D4\&center=true\&vCenter=true\&width=720\&lines=Automation+Tools;Production+Web+Apps;Desktop+Applications;AI-Assisted+Development;Workflow+Systems)](https://git.io/typing-svg)
 
 <br/>
 
 ![Contributions](https://img.shields.io/badge/Contributions-560%2B-071A2F?style=for-the-badge\&labelColor=020617)
 ![Deployments](https://img.shields.io/badge/Deployments-700%2B-071A2F?style=for-the-badge\&labelColor=020617)
-![Web Apps](https://img.shields.io/badge/Web%20Apps-Production-00D9FF?style=for-the-badge\&labelColor=020617)
-![Desktop Apps](https://img.shields.io/badge/Desktop%20Apps-Packaged-00D9FF?style=for-the-badge\&labelColor=020617)
-![AI](https://img.shields.io/badge/AI-Claude%20%7C%20OpenAI-00D9FF?style=for-the-badge\&labelColor=020617)
+![Web Apps](https://img.shields.io/badge/Web%20Apps-Production-0078D4?style=for-the-badge\&labelColor=020617)
+![Desktop Apps](https://img.shields.io/badge/Desktop%20Apps-Packaged-0078D4?style=for-the-badge\&labelColor=020617)
+![AI](https://img.shields.io/badge/AI-Claude%20%7C%20OpenAI-0078D4?style=for-the-badge\&labelColor=020617)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-william%40taskedby.com-00D9FF?style=for-the-badge\&labelColor=020617)](mailto:william@taskedby.com)
+[![Email](https://img.shields.io/badge/Email-william%40taskedby.com-0078D4?style=for-the-badge\&labelColor=020617)](mailto:william@taskedby.com)
 [![Website](https://img.shields.io/badge/Website-taskedby.com-071A2F?style=for-the-badge\&labelColor=020617)](https://taskedby.com)
 
 </div>
@@ -123,4 +123,3 @@ Portfolio, demos, work samples, and project inquiries available upon request.
 
 **Email:** [william@taskedby.com](mailto:william@taskedby.com)
 **Website:** [taskedby.com](https://taskedby.com)
-
