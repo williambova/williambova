@@ -8,13 +8,15 @@
 
 I help businesses move faster by turning manual workflows, messy data, and rough ideas into usable software.
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&duration=2800\&pause=900\&color=0078D4\&center=true\&vCenter=true\&width=720\&lines=Automation+Tools;Production+Web+Apps;Desktop+Applications;AI-Assisted+Development;Workflow+Systems)](https://git.io/typing-svg)
+**Note:** Some of my strongest work involves proprietary, partner-involved, or internal business systems, so those repositories are private. Public projects and demos below represent the work I’m able to share.
 
 <br/>
 
-![Contributions](https://img.shields.io/badge/Contributions-560%2B-071A2F?style=for-the-badge\&labelColor=020617)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&duration=2800\&pause=900\&color=0078D4\&center=true\&vCenter=true\&width=720\&lines=Automation+Tools;Production+Web+Apps;Desktop+Applications;AI-Assisted+Development;Workflow+Systems;Data+Dashboards;Webhook+Workflows)](https://git.io/typing-svg)
+
+<br/>
+
+![Contributions](https://img.shields.io/badge/Contributions-675%2B-071A2F?style=for-the-badge\&labelColor=020617)
 ![Deployments](https://img.shields.io/badge/Deployments-700%2B-071A2F?style=for-the-badge\&labelColor=020617)
 ![Web Apps](https://img.shields.io/badge/Web%20Apps-Production-0078D4?style=for-the-badge\&labelColor=020617)
 ![Desktop Apps](https://img.shields.io/badge/Desktop%20Apps-Packaged-0078D4?style=for-the-badge\&labelColor=020617)
@@ -33,7 +35,7 @@ I help businesses move faster by turning manual workflows, messy data, and rough
 
 I build practical software for small businesses, internal teams, and founder-led projects.
 
-Most of my work focuses on improving workflows, organizing data, reducing repetitive tasks, and giving teams cleaner tools to operate with. My strongest work is often private or client-facing, so this profile highlights the systems I build, the stack I use, and the areas I am actively developing in.
+Most of my work focuses on improving workflows, organizing data, reducing repetitive tasks, and giving teams cleaner tools to operate with. Some of my strongest work is private, partner-involved, or built for internal business use, so this profile highlights the public projects, systems, stack, and areas I am actively developing in.
 
 ---
 
@@ -43,9 +45,11 @@ Most of my work focuses on improving workflows, organizing data, reducing repeti
 * ⚙️ Workflow automation tools
 * 🤖 AI-assisted internal tools
 * 🗂️ CRM and data-cleaning systems
-* 💻 Desktop applications
+* 💻 Desktop applications for Mac and Windows
 * 📊 Lightweight dashboards and operational tools
-* 🧩 Client-facing business software
+* 📰 RSS/feed aggregation and data-ingestion tools
+* 🔗 Webhook workflows and third-party API integrations
+* 🧩 Business software for internal teams and operators
 * 🎨 Front-end rebuilds for small businesses and growing brands
 
 ---
@@ -56,17 +60,25 @@ Most of my work focuses on improving workflows, organizing data, reducing repeti
 
 Founder of **TaskedBy**, an automation and web development studio focused on helping small businesses modernize websites, reduce repetitive work, and launch better digital tools.
 
-### Client Web Projects 🌐
+### Public Web Projects 🌐
 
 Built and deployed websites, landing pages, and front-end rebuilds for businesses across food, golf, finance, local services, and consumer brands.
 
 ### Desktop Applications 💻
 
-Built and packaged desktop applications for internal workflows, business operations, and productivity-focused use cases.
+Built and packaged desktop applications for internal workflows, business operations, and productivity-focused use cases across Mac and Windows environments.
 
 ### AI + Automation Tools 🤖
 
 Built tools that use AI-assisted workflows to support data cleanup, content processing, internal operations, and business productivity.
+
+### Dashboards + Data Workflows 📊
+
+Built lightweight dashboards and data tools involving CSV/XLSX processing, CRM-style workflows, RSS/feed aggregation, and external data organization.
+
+### Integrations + Webhooks 🔗
+
+Built workflow tools involving REST APIs, webhook flows, third-party integrations, notifications, and connected business systems.
 
 ---
 
@@ -74,19 +86,23 @@ Built tools that use AI-assisted workflows to support data cleanup, content proc
 
 ### Languages & Frameworks
 
-`Python` `JavaScript` `HTML` `CSS` `React` `Next.js` `Flask`
+`Python` `JavaScript` `TypeScript` `HTML` `CSS` `React` `Next.js` `Flask` `FastAPI` `Tailwind CSS`
 
 ### Backend & Data
 
-`Supabase` `Postgres` `REST APIs` `CSV/XLSX Processing`
+`Supabase` `Postgres` `REST APIs` `CSV/XLSX Processing` `RSS Feeds` `Data Ingestion` `Webhook Workflows`
 
 ### AI & Automation
 
-`OpenAI API` `Claude` `AI-Assisted Development` `Prompt Engineering` `Workflow Automation`
+`OpenAI API` `Claude` `AI-Assisted Development` `Prompt Engineering` `Workflow Automation` `AI-Assisted Data Mapping`
 
 ### Deployment & Tools
 
-`Vercel` `GitHub` `Desktop App Packaging` `API Integrations`
+`Vercel` `GitHub` `GitHub Actions` `Supabase` `PyInstaller` `PyWebView` `Desktop App Packaging` `Mac/Windows Packaging`
+
+### Integrations
+
+`CRM APIs` `Twilio` `Zapier` `Google Sheets` `Google Calendar` `Gmail` `Slack` `API Integrations`
 
 ---
 
@@ -98,6 +114,8 @@ Built tools that use AI-assisted workflows to support data cleanup, content proc
 * 🎨 Clean front-end experiences
 * 💻 Desktop application deployment
 * 🗂️ CRM and data workflow systems
+* 📰 RSS/feed aggregation and external data workflows
+* 🔗 Webhook workflows and third-party integrations
 * ✨ Turning rough ideas into polished products
 
 ---
@@ -113,6 +131,7 @@ I care about:
 * 🧭 Clear user flows
 * 🚀 Fast iteration
 * 🛠️ Shipping working products
+* 🔗 Connected workflows
 * 📈 Tools that solve real business problems
 
 ---
@@ -121,5 +140,5 @@ I care about:
 
 Portfolio, demos, work samples, and project inquiries available upon request.
 
-**Email:** [william@taskedby.com](mailto:william@taskedby.com)
+**Email:** [william@taskedby.com](mailto:william@taskedby.com)  
 **Website:** [taskedby.com](https://taskedby.com)
