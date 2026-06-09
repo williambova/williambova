@@ -12,7 +12,7 @@ I help businesses move faster by turning manual workflows, messy data, and rough
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&duration=2800\&pause=900\&color=0078D4\&center=true\&vCenter=true\&width=720\&lines=Automation+Tools;Production+Web+Apps;Desktop+Applications;AI-Assisted+Development;Workflow+Systems;Data+Dashboards;Webhook+Workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&duration=2800\&pause=900\&color=0078D4\&center=true\&vCenter=true\&width=720\&lines=Automation+Tools;Production+Web+Apps;Desktop+Applications;AI-Assisted+Development;Workflow+Systems;Webhook+Workflows)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,7 +35,7 @@ I help businesses move faster by turning manual workflows, messy data, and rough
 
 I build practical software for small businesses, internal teams, and founder-led projects.
 
-Most of my work focuses on improving workflows, organizing data, reducing repetitive tasks, and giving teams cleaner tools to operate with. Some of my strongest work is private, partner-involved, or built for internal business use, so this profile highlights the public projects, systems, stack, and areas I am actively developing in.
+Most of my work focuses on improving workflows, reducing repetitive tasks, and giving teams cleaner tools to operate with. Some of my strongest work is private, partner-involved, or built for internal business use, so this profile highlights the public projects, systems, stack, and areas I am actively developing in.
 
 ---
 
@@ -44,10 +44,7 @@ Most of my work focuses on improving workflows, organizing data, reducing repeti
 * 🌐 Production websites and web applications
 * ⚙️ Workflow automation tools
 * 🤖 AI-assisted internal tools
-* 🗂️ CRM and data-cleaning systems
 * 💻 Desktop applications for Mac and Windows
-* 📊 Lightweight dashboards and operational tools
-* 📰 RSS/feed aggregation and data-ingestion tools
 * 🔗 Webhook workflows and third-party API integrations
 * 🧩 Business software for internal teams and operators
 * 🎨 Front-end rebuilds for small businesses and growing brands
@@ -62,7 +59,7 @@ Founder of **TaskedBy**, an automation and web development studio focused on hel
 
 ### Public Web Projects 🌐
 
-Built and deployed websites, landing pages, and front-end rebuilds for businesses across food, golf, finance, local services, and consumer brands.
+I build and deploy modern websites, landing pages, and front-end rebuilds that help turn rough ideas, outdated sites, or early-stage brands into polished digital experiences.
 
 ### Desktop Applications 💻
 
@@ -70,11 +67,7 @@ Built and packaged desktop applications for internal workflows, business operati
 
 ### AI + Automation Tools 🤖
 
-Built tools that use AI-assisted workflows to support data cleanup, content processing, internal operations, and business productivity.
-
-### Dashboards + Data Workflows 📊
-
-Built lightweight dashboards and data tools involving CSV/XLSX processing, CRM-style workflows, RSS/feed aggregation, and external data organization.
+Built tools that use AI-assisted workflows to support internal operations, business productivity, and repetitive task reduction.
 
 ### Integrations + Webhooks 🔗
 
@@ -90,11 +83,11 @@ Built workflow tools involving REST APIs, webhook flows, third-party integration
 
 ### Backend & Data
 
-`Supabase` `Postgres` `REST APIs` `CSV/XLSX Processing` `RSS Feeds` `Data Ingestion` `Webhook Workflows`
+`Supabase` `Postgres` `REST APIs` `Webhook Workflows`
 
 ### AI & Automation
 
-`OpenAI API` `Claude` `AI-Assisted Development` `Prompt Engineering` `Workflow Automation` `AI-Assisted Data Mapping`
+`OpenAI API` `Claude` `AI-Assisted Development` `Prompt Engineering` `Workflow Automation`
 
 ### Deployment & Tools
 
@@ -113,8 +106,6 @@ Built workflow tools involving REST APIs, webhook flows, third-party integration
 * ⚙️ Automation-first workflows
 * 🎨 Clean front-end experiences
 * 💻 Desktop application deployment
-* 🗂️ CRM and data workflow systems
-* 📰 RSS/feed aggregation and external data workflows
 * 🔗 Webhook workflows and third-party integrations
 * ✨ Turning rough ideas into polished products
 
