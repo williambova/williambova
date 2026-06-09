@@ -1,19 +1,29 @@
 <div align="center">
 
+<img src="./assets/taskedby-logo.png" alt="TaskedBy logo" width="132" />
+
 # William Bova
 
-I build automation tools, production web apps, and desktop applications that help businesses move faster, reduce manual work, and turn ideas into usable software.
+### Building automation tools, production web apps, and desktop applications.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&size=22\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=700\&lines=Automation+Tools;Production+Web+Apps;Desktop+Applications;AI-Assisted+Development)](https://git.io/typing-svg)
+I help businesses move faster by turning manual workflows, messy data, and rough ideas into usable software.
 
-![Contributions](https://img.shields.io/badge/Contributions-560%2B%20last%20year-brightgreen)
-![Deployments](https://img.shields.io/badge/Deployments-700%2B-black)
-![Web Apps](https://img.shields.io/badge/Web%20Apps-Production%20Deployments-blue)
-![Desktop Apps](https://img.shields.io/badge/Desktop%20Apps-Packaged%20Deployments-lightgrey)
-![AI](https://img.shields.io/badge/AI-OpenAI%20%7C%20Claude-purple)
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-william%40taskedby.com-blue?style=for-the-badge)](mailto:william@taskedby.com)
-[![Website](https://img.shields.io/badge/Website-taskedby.com-black?style=for-the-badge)](https://taskedby.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&duration=2800\&pause=900\&color=00D9FF\&center=true\&vCenter=true\&width=720\&lines=Automation+Tools;Production+Web+Apps;Desktop+Applications;AI-Assisted+Development;Workflow+Systems)](https://git.io/typing-svg)
+
+<br/>
+
+![Contributions](https://img.shields.io/badge/Contributions-560%2B-071A2F?style=for-the-badge\&labelColor=020617)
+![Deployments](https://img.shields.io/badge/Deployments-700%2B-071A2F?style=for-the-badge\&labelColor=020617)
+![Web Apps](https://img.shields.io/badge/Web%20Apps-Production-00D9FF?style=for-the-badge\&labelColor=020617)
+![Desktop Apps](https://img.shields.io/badge/Desktop%20Apps-Packaged-00D9FF?style=for-the-badge\&labelColor=020617)
+![AI](https://img.shields.io/badge/AI-Claude%20%7C%20OpenAI-00D9FF?style=for-the-badge\&labelColor=020617)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-william%40taskedby.com-00D9FF?style=for-the-badge\&labelColor=020617)](mailto:william@taskedby.com)
+[![Website](https://img.shields.io/badge/Website-taskedby.com-071A2F?style=for-the-badge\&labelColor=020617)](https://taskedby.com)
 
 </div>
 
@@ -21,11 +31,9 @@ I build automation tools, production web apps, and desktop applications that hel
 
 ## 👋 About
 
-I focus on practical software: tools that improve workflows, organize data, automate repetitive tasks, and give teams cleaner systems to work with.
+I build practical software for small businesses, internal teams, and founder-led projects.
 
-My work spans web applications, internal tools, AI-assisted workflows, CRM/data systems, production websites, and desktop application deployment.
-
-A lot of my strongest work is private or client-facing, so this profile highlights the type of systems I build, the stack I use, and the areas I am actively developing in.
+Most of my work focuses on improving workflows, organizing data, reducing repetitive tasks, and giving teams cleaner tools to operate with. My strongest work is often private or client-facing, so this profile highlights the systems I build, the stack I use, and the areas I am actively developing in.
 
 ---
 
@@ -36,8 +44,8 @@ A lot of my strongest work is private or client-facing, so this profile highligh
 * 🤖 AI-assisted internal tools
 * 🗂️ CRM and data-cleaning systems
 * 💻 Desktop applications
-* 🧩 Client-facing business software
 * 📊 Lightweight dashboards and operational tools
+* 🧩 Client-facing business software
 * 🎨 Front-end rebuilds for small businesses and growing brands
 
 ---
@@ -46,7 +54,7 @@ A lot of my strongest work is private or client-facing, so this profile highligh
 
 ### TaskedBy 🛠️
 
-Founder of **TaskedBy**, an automation and web development studio focused on helping small businesses modernize their websites, reduce repetitive work, and launch better digital tools.
+Founder of **TaskedBy**, an automation and web development studio focused on helping small businesses modernize websites, reduce repetitive work, and launch better digital tools.
 
 ### Client Web Projects 🌐
 
@@ -58,7 +66,7 @@ Built and packaged desktop applications for internal workflows, business operati
 
 ### AI + Automation Tools 🤖
 
-Built tools that use AI to assist with data cleanup, workflow support, content processing, and internal business operations.
+Built tools that use AI-assisted workflows to support data cleanup, content processing, internal operations, and business productivity.
 
 ---
 
@@ -105,7 +113,7 @@ I care about:
 * 🧭 Clear user flows
 * 🚀 Fast iteration
 * 🛠️ Shipping working products
-* 📈 Making tools that solve real business problems
+* 📈 Tools that solve real business problems
 
 ---
 
@@ -115,3 +123,4 @@ Portfolio, demos, work samples, and project inquiries available upon request.
 
 **Email:** [william@taskedby.com](mailto:william@taskedby.com)
 **Website:** [taskedby.com](https://taskedby.com)
+
